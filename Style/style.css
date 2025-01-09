@@ -1,0 +1,357 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-image:linear-gradient(0deg, #000000da, #00000065), url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 950px;
+    height: 500px;
+    display: flex;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px; ;
+    background-size: cover;
+    border-radius: 15px;
+    margin-left: 200px;
+}
+.year-new{
+    font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+.year-party{
+    font-size: 72px;
+    color: #ffffff;
+    text-align: center;
+}
+.off{
+    text-align: center;
+    margin-top: 120px;
+}
+.-off{
+    font-size: 88px;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 48px;
+}
+.holiday{
+    font-size: 18px;
+    color: #ff0000;
+    font-weight: normal;
+    margin-bottom: 16px;
+}
+.categories{
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+}
+img{
+    width: 750px;
+    height: 450px;
+    margin-top: 48px;
+}
+.container3{
+    background-image:linear-gradient(to left, rgba(7, 2, 17, 0), rgba(7, 2, 17, 1)) ,url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    margin-top: 120px;
+    border-radius: 12px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.welcome-div{
+    padding-left: 70px;
+    margin-bottom: 24px;
+}
+.year-img{
+    margin-right: 60px;
+    width: 310px;
+    height: 350px;
+}
+.welcome{
+    font-weight: bold;
+    font-size: 64px;
+    color: #ffffff;
+}
+.texts{
+    color: #ffffff;
+    font-size: 18px
+}
+.join{
+    padding-left: 32px;
+    margin-top: 48px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.text-box{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(0deg, rgba(255,0,0,0), rgb(235, 190, 224)); 
+    height: 420px;
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.place {
+    margin-top: 100px;
+    font-size: 32px;
+    font-weight:700;
+    margin-bottom: 20px;
+}
+.date{
+    font-size: 32px;
+    font-weight:700;
+    margin-bottom: 20px;
+}
+.time{
+    font-size: 32px;
+    font-weight:700;
+    margin-bottom: 64px;
+}
+.color-place{
+    color: #ff0000;
+}
+.button-join{
+    background-color: #ff0000;
+    color: #ffffff;
+    height: 56px;
+    width: 190px;
+    border: none;
+    border-radius: 8px;
+    padding: 18px ;
+    text-size-adjust: 103px 24px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.container4{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    margin: 0 auto;
+    max-width: 1366px;
+    padding-left: 140px;
+    padding-right: 140px;
+    margin-top: 118px;
+}
+.first{
+
+}
+.best{
+    font-size: 24px;
+    color: #ff0000;
+}
+.soon{
+    font-weight: bolder;
+    font-size: 48px;
+
+}
+.img-center{
+    height: 350px;
+    width: 340px;
+    margin-left: 70px;
+    margin-right: 118px;
+    border: 15px solid red;
+    border-radius: 100%;
+    padding: 49px;
+}
+.group-img{
+    width: 155px;
+    height: 152px;
+}
+.container5{
+    margin-top: 120px;
+}
+.container5-sec{
+    text-align: center;
+}
+.what-is{
+    font-size: 24px;
+}
+.holidays{
+    font-size: 72px;
+    margin-bottom: 28px;
+    
+}
+.span-holidays{
+    color: #ff0000;
+    
+}
+.img-bottom{
+    height: 229px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.holiday-img{
+    background-image: url(../images/Rectangle\ 2.png);
+    background-position:left bottom;
+    background-repeat: no-repeat;
+    margin-left: 140px;
+    margin-right: 140px;
+    height: 290px;
+    border-radius: 25px;
+}
+.icon{
+    width: 220px;
+    height: 220px;
+    float: inline-end;
+    margin-right: 140px;
+}
+.img-box{
+    height: 277px;
+    width: 374px;
+}
+.container6{
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.div5-img{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+    gap: 24px;
+}
+.div5-image{
+    width: 305px;
+    height: 205px;
+}
+.best-gift{
+    font-size: 18px;
+    color: #ff0000;
+}
+.awesome{
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 24px;
+    margin-top: 16px;
+}
+.container7{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 450px;
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right: 140px;
+    background-image:linear-gradient(0deg, rgba(255,0,0,0), rgb(235, 190, 224));
+    border-radius: 5px;
+}
+.img-icon-new{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 40px;
+}
+.title-div{
+    font-weight: bolder;
+    font-size: 48px;
+    margin-bottom: 22px;
+}
+.div7-dis{
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 22px;
+    text-align: center;
+}
+
+.input{
+    margin-top: 48px;
+    gap: 0%;
+    display: flex;
+} 
+.input-gmail{
+    border-radius:55px 0px 0px 55px;
+    height: 55px;
+    padding: 0 35px;
+}
+.button-icon{
+    border-radius: 0px 55px 55px 0px;
+    height: 60px;
+    padding: 0px 15px;
+    background-color: red;
+    color: #ffffff;
+    font-size: larger;
+}
+.footer{
+    margin-top: 120px;
+    background-color: #070211;
+    max-height: 100vh;
+    background-size: cover;
+}
+.icon-footers{
+    width: 64px;
+    height: 64px;
+}
+.phone-email{
+    width: 24px;
+    height: 24px;
+
+}
+.div-footer{
+    /* border: 1px solid black; */
+    margin-left: 140px;
+    margin-right: 140px;
+    padding-top : 120px; ;
+    
+}
+.hr1{
+    margin-top: 50px;
+    background-color:1px dotted gray ;
+}
+.address1 .address2{
+    display: flex;
+}
+.p-footer-dis1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 140px;
+}
+.address1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-color-footer{
+    color: #ffffff;
+}
+.icon-footer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 50px;
+    gap: 15px;
+}
+.hr2{
+    margin-bottom: 50px;
+}
+.p{
+    margin-right: 55px;
+    padding-bottom: 50px;
+}
+.phone-email{
+    padding-right: 150px;
+}
+.ps{
+    padding-left: 385px;
+    padding-bottom: 50px;
+}
+.sss{
+    width: 14px;
+    height: 14px;
+}
